@@ -6,6 +6,7 @@ import tempfile
 from PIL import Image
 import matplotlib.image as mpimg
 import speech_recognition as sr
+nltk.download('punkt')
 
 
 def home():
