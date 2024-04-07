@@ -4,4 +4,4 @@ matplotlib==3.8.3
 nltk==3.8.1
 SpeechRecognition==3.10.3
 streamlit==1.32.2
-
+streamlit-webrtc==0.47.6
